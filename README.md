@@ -1,4 +1,4 @@
-# HoraDeCodar2
+# Hora De Codar 2
 ### Este repositório é destinado aos exercícios na linguagem de portugol, para a compreensão da lógica de programação básica.
 
 ### A seguir enunciado dos exercícios:
